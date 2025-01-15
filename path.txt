@@ -1,0 +1,707 @@
+command in the terminal to list all files,
+
+C:\Yousef\courses\Back-end\Capstone-project>dir /s /a-d
+ Volume in drive C has no label.
+ Volume Serial Number is 0C9C-25E8
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project
+
+01/10/2025  03:49 PM                 0 db.sqlite3
+01/10/2025  01:25 PM               689 manage.py
+01/14/2025  05:57 PM               209 Pipfile
+01/14/2025  05:57 PM            25,331 Pipfile.lock
+               4 File(s)         26,229 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git
+
+01/15/2025  02:02 PM                42 COMMIT_EDITMSG
+01/10/2025  01:46 PM               421 config
+01/10/2025  01:31 PM                73 description
+01/10/2025  01:48 PM               245 FETCH_HEAD
+01/10/2025  01:48 PM                23 HEAD
+01/15/2025  02:02 PM             7,506 index
+01/10/2025  01:48 PM                41 ORIG_HEAD
+               7 File(s)          8,351 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\hooks
+
+01/10/2025  01:31 PM               478 applypatch-msg.sample
+01/10/2025  01:31 PM               896 commit-msg.sample
+01/10/2025  01:31 PM             4,726 fsmonitor-watchman.sample
+01/10/2025  01:31 PM               189 post-update.sample
+01/10/2025  01:31 PM               424 pre-applypatch.sample
+01/10/2025  01:31 PM             1,649 pre-commit.sample
+01/10/2025  01:31 PM               416 pre-merge-commit.sample
+01/10/2025  01:31 PM             1,374 pre-push.sample
+01/10/2025  01:31 PM             4,898 pre-rebase.sample
+01/10/2025  01:31 PM               544 pre-receive.sample
+01/10/2025  01:31 PM             1,492 prepare-commit-msg.sample
+01/10/2025  01:31 PM             2,783 push-to-checkout.sample
+01/10/2025  01:31 PM             2,308 sendemail-validate.sample
+01/10/2025  01:31 PM             3,650 update.sample
+              14 File(s)         25,827 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\info
+
+01/10/2025  01:31 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\logs
+
+01/15/2025  02:02 PM             1,669 HEAD
+               1 File(s)          1,669 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\logs\refs\heads
+
+01/15/2025  02:02 PM               827 master
+01/10/2025  01:46 PM               325 menu_api
+               2 File(s)          1,152 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\logs\refs\remotes\origin
+
+01/15/2025  02:02 PM               739 master
+01/10/2025  01:46 PM               294 menu_api
+               2 File(s)          1,033 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\02
+
+01/11/2025  03:45 PM               211 1948f8d72e57ce4874a6be15e31a35fe741cd7
+               1 File(s)            211 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\04
+
+01/11/2025  03:45 PM           174,356 a0e7f829a57f207434796d3cfd9ed6bfd4619a
+               1 File(s)        174,356 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\06
+
+01/11/2025  03:45 PM               146 db15cde33dcb014e8c3a64c8be26fa80697d3f
+               1 File(s)            146 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\08
+
+01/15/2025  02:01 PM               236 bcc422b9d128fdb92ee8b111c19f400fa48f20
+01/15/2025  02:01 PM               350 ce25211e2f8bfc3b497f04ae3ae4a2c8795d2e
+01/11/2025  03:45 PM             1,417 e18753ff011f9f7b1c511ff5640f539117c899
+               3 File(s)          2,003 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\0f
+
+01/14/2025  03:50 PM               399 3e102548a0b09f2c1da12d358bee271018ba90
+               1 File(s)            399 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\11
+
+01/11/2025  03:45 PM            82,176 12349deb403193b18715f2d755d1d5b1e27ab0
+01/11/2025  03:45 PM               417 434a8b099e065db9f69377b298b597b212db20
+01/11/2025  03:45 PM                53 6bc8a47e93bc3ebd3714d267aaba8f19af3740
+               3 File(s)         82,646 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\12
+
+01/15/2025  02:02 PM                90 082c06011a6cd89a6dd7d3aea4b1b4488b080d
+01/11/2025  03:45 PM           219,199 8e0faf15c3c38ea0bc5c714fb4a2c0299b960a
+               2 File(s)        219,289 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\18
+
+01/10/2025  01:46 PM               187 bab46a5e722e42db1d473bf07203e36231317f
+               1 File(s)            187 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\19
+
+01/11/2025  03:45 PM               131 2aede2f16186d2a23d350d70f3adc1d1708288
+               1 File(s)            131 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\1a
+
+01/11/2025  03:45 PM               298 f55c73d94ca581ea54de1372b197236814902a
+               1 File(s)            298 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\1c
+
+01/14/2025  03:49 PM               160 10e2858305bca5084db0721c0564a6e580ae9e
+               1 File(s)            160 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\20
+
+01/10/2025  01:32 PM               399 3fb6e36adbe79dc527546c0c62d69c642184d9
+               1 File(s)            399 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\21
+
+01/15/2025  02:02 PM               282 168bf53ccc35a86de8eab5e903c6c04f240b0b
+               1 File(s)            282 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\22
+
+01/11/2025  03:45 PM                60 76b92eff87ddcbc9fe6df4bb252ff9b29ef23a
+01/11/2025  03:45 PM             1,574 998459887cd2d04f765182bdd4786a95a72355
+               2 File(s)          1,634 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\24
+
+01/11/2025  03:45 PM               174 56861f61b96cce86012eeb0b4050780a16b307
+               1 File(s)            174 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\34
+
+01/11/2025  03:45 PM               732 ca4532f1e97e60ef02778f93cb058a63cc69bd
+               1 File(s)            732 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\38
+
+01/11/2025  03:45 PM           359,323 cff4449ba361a1aa5c6d996bc68bbf9da5521f
+               1 File(s)        359,323 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\3b
+
+01/11/2025  03:45 PM           128,104 540027271db0525347145bca72efaf2364f79d
+               1 File(s)        128,104 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\3e
+
+01/15/2025  02:02 PM               304 73d9ddb895ef93429f7b7aede95a58bfce44fd
+               1 File(s)            304 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\40
+
+01/11/2025  03:45 PM               153 f0d7bf738ee332a4fbb5cb3c8c8491b843db0f
+               1 File(s)            153 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\42
+
+01/10/2025  01:46 PM               168 3b3ed1c128be04c23de7fd38948b386cc080be
+01/10/2025  01:48 PM               915 fecb3acc6cbcda7f7a7d42bc0c3b33271791cc
+               2 File(s)          1,083 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\43
+
+01/14/2025  03:49 PM               519 c9ce0c1b16c48a220aaafb6b82330a891ed30f
+               1 File(s)            519 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\44
+
+01/10/2025  01:32 PM               388 02de62774025abd6e5529aaae16d0a38abd9bf
+               1 File(s)            388 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\47
+
+01/10/2025  01:32 PM               131 c5200767ee1c66c5993ca444e8f697b31834b2
+01/11/2025  03:45 PM                55 fa519d3ec9770e0a43db8920ce1b7516f27660
+               2 File(s)            186 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\4a
+
+01/11/2025  03:45 PM               686 1c8177de4951e760760df3268ab9c8d57159f8
+               1 File(s)            686 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\4d
+
+01/10/2025  01:33 PM               240 e293130f9f9252e5a7853f68f6a7d798eba875
+               1 File(s)            240 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\51
+
+01/10/2025  01:32 PM             1,328 5fc7722c360648e68831dfed83413659b8c2c5
+               1 File(s)          1,328 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\53
+
+01/15/2025  02:01 PM               582 2a1ced8d9617a94071e5a3b45bda7d51973b8e
+01/15/2025  02:01 PM               369 c71fc2cdb30eaad9502dddd14c4775ab92cec1
+               2 File(s)            951 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\5d
+
+01/11/2025  03:45 PM           215,770 05daa2fd9338a55f7034ec49073d2b7de43746
+01/11/2025  03:45 PM            14,629 1810feb410b0a43e86274eb928aac38aa81910
+               2 File(s)        230,399 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\5e
+
+01/15/2025  02:02 PM               178 ace270faf964c40c2d5446f1b0aa598f0bc02f
+               1 File(s)            178 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\61
+
+01/15/2025  02:01 PM            10,618 1127ba7687bd82187ae5d92cb2272070223cc9
+               1 File(s)         10,618 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\64
+
+01/11/2025  03:45 PM               241 905eb6e6be94f4e715dd25ee763b35d00d57a3
+               1 File(s)            241 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\65
+
+01/11/2025  03:45 PM             9,250 9a006b583af6030ae53625ae5c4c9e4ba1dade
+01/15/2025  02:01 PM               372 ae2e7669be7a0da715f063452dea9910415736
+               2 File(s)          9,622 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\69
+
+01/10/2025  01:32 PM               284 2fd04c38173e1d30cf1af5d18d93afeceedf0b
+               1 File(s)            284 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\6b
+
+01/11/2025  03:45 PM               511 45f59b9c8ffc3fadc3cd92ca52a45afd4c44d0
+               1 File(s)            511 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\6c
+
+01/11/2025  03:45 PM               152 28fcce465e96b7a8a7896631f7739eed9563ea
+               1 File(s)            152 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\6d
+
+01/10/2025  01:32 PM               283 ee90f2dcdf9e71ae0b723e8b69e721ff859789
+               1 File(s)            283 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\6e
+
+01/14/2025  03:49 PM               329 64f370f43c88c89d7d866e0747ab671b416de4
+01/10/2025  01:32 PM               133 6926b3cbda924a61f43b0c5075a7b5deb347ec
+               2 File(s)            462 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\6f
+
+01/11/2025  03:45 PM           284,829 e34f57be1e4285c2e1434d5c59ad821ff69c37
+               1 File(s)        284,829 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\71
+
+01/10/2025  01:33 PM               129 67c0e2d4f671d335d3e719b91ce4b5590da226
+01/10/2025  01:32 PM                68 a836239075aa6e6e4ecb700e9c42c95c022d91
+               2 File(s)            197 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\73
+
+01/11/2025  03:45 PM           108,408 dc47cfa0fbb47dbf1a8498215eba5cdeb22c9a
+               1 File(s)        108,408 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\78
+
+01/10/2025  01:46 PM               240 bc162f1f894b342f04587ef18d233b39317823
+               1 File(s)            240 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\7c
+
+01/14/2025  03:50 PM               251 9ab69a3d0dd5473ac0518b6c73eedcd42124b5
+01/15/2025  02:01 PM                72 e503c2dd97ba78597f6ff6e4393132753573f6
+               2 File(s)            323 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\81
+
+01/11/2025  03:45 PM               405 53c24faf1a7f15c7a431e062ea6105741d3d59
+               1 File(s)            405 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\82
+
+01/11/2025  03:45 PM               121 53715e33fd6dd73dc036164635b2c8a1a97e3c
+01/11/2025  03:45 PM           139,972 9f17cdf5c03ce2f6e8ba40d7fdcd423003eeee
+               2 File(s)        140,093 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\83
+
+01/15/2025  02:01 PM               163 618ee26967e1f775d74b6372ea96ccfb4bc182
+               1 File(s)            163 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\84
+
+01/15/2025  02:01 PM               139 008160aa9e3a1bf11370756f0c69909c3e61ff
+01/11/2025  03:45 PM               204 7f0f7fc5e3d5e09bb093c8197d229cfc9a9c90
+               2 File(s)            343 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\89
+
+01/10/2025  01:45 PM                78 ffd62216267bfcaedfc04357645ec28cae6f9c
+               1 File(s)             78 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\8c
+
+01/10/2025  01:32 PM                77 38f3f3dad51e4585f3984282c2a4bec5349c1e
+01/14/2025  03:49 PM               502 adb528ea8ff80029352910dade72fbf8a74ea3
+               2 File(s)            579 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\8d
+
+01/11/2025  03:45 PM           267,628 70f47480dee03c5e0fcd74acbb197f9c05a8e6
+               1 File(s)        267,628 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\91
+
+01/10/2025  01:32 PM                77 ea44a218fbd2f408430959283f0419c921093e
+               1 File(s)             77 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\93
+
+01/15/2025  02:01 PM               507 fc7254981b02f199bdbe5beb77d673547161d9
+               1 File(s)            507 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\96
+
+01/11/2025  03:45 PM                73 185c612958f8d420cc18b3fd4b6791b169faf6
+               1 File(s)             73 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\99
+
+01/11/2025  03:45 PM               250 9a00e50973c027e1b3311738272f74047eb35e
+               1 File(s)            250 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\9b
+
+01/11/2025  03:45 PM           118,980 bae22ed016bc08a715832a354a7ab3d5e5401a
+               1 File(s)        118,980 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\9c
+
+01/15/2025  02:01 PM               107 29c6a3e5efd9d0d47e9980ae18e7f4b431a19a
+               1 File(s)            107 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\9d
+
+01/10/2025  01:33 PM                56 1dcfdaf1a6857c5f83dc27019c7600e1ffaff8
+               1 File(s)             56 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\a4
+
+01/14/2025  03:50 PM               210 cfc43d264923ca51669de9c1840da75a2d5a4e
+               1 File(s)            210 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\aa
+
+01/15/2025  02:02 PM               132 8c4e373e2c3d76856ba3b27667c1e26c198605
+               1 File(s)            132 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\ac
+
+01/11/2025  03:45 PM               285 268ffeb47475b446996e9d28574f1ac7b21f3b
+01/11/2025  03:45 PM                54 e7ba97dc1d6dd871bab0e0a103c7d45c51bdca
+01/15/2025  02:02 PM               211 ee93c78c27d8bb279c77a8e3d0d40c095cadf4
+               3 File(s)            550 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\ae
+
+01/11/2025  03:45 PM               913 4802355b49a994e022b68805bed2d24a953283
+               1 File(s)            913 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\af
+
+01/11/2025  03:45 PM               905 10c0d59f077596156dfb1b98ad39aa3fad23f0
+               1 File(s)            905 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\ba
+
+01/11/2025  03:45 PM               363 ea9fae7a12612b5d5a2c6820cecb153c027acb
+               1 File(s)            363 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\bd
+
+01/15/2025  02:01 PM               136 bd90405dace76c11b72bec97230db8cc583ae2
+               1 File(s)            136 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\be
+
+01/11/2025  03:45 PM           184,125 3b78dcd5da1b23b0d21b5747fc37a0556f9d73
+               1 File(s)        184,125 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\bf
+
+01/14/2025  03:49 PM             1,199 b37bc31a554064a29e0ee5a8be11374417a64a
+               1 File(s)          1,199 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\c2
+
+01/11/2025  03:45 PM               225 3d89eccc9827622934e9a4a03a80904fc6a8a8
+               1 File(s)            225 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\c3
+
+01/11/2025  03:45 PM             1,095 f52035332618c034978966925d58e56bf067f2
+               1 File(s)          1,095 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\c4
+
+01/11/2025  03:45 PM               275 2f47644f88aaf273d1b4e770dd52f49f1d403b
+               1 File(s)            275 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\c5
+
+01/15/2025  02:01 PM             1,584 e08b5efe934ac77a7c42901a1ca5c0efc9c4a4
+               1 File(s)          1,584 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\c6
+
+01/10/2025  01:33 PM               174 993bc176a0561f32b849e0210f18393af79ef9
+               1 File(s)            174 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\c7
+
+01/11/2025  03:45 PM               650 514b6138ffc3516943d967ce997d7bd26c0cbf
+               1 File(s)            650 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\cb
+
+01/11/2025  03:45 PM           177,602 450c48d987ca30b745815dec144eec78cc3874
+               1 File(s)        177,602 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\cc
+
+01/14/2025  03:49 PM             1,428 611410414076457f2e73361aa18232b99dbe76
+               1 File(s)          1,428 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\cf
+
+01/11/2025  03:45 PM             1,304 2e486df32af4e5887f3ebac5574888f9532b02
+               1 File(s)          1,304 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\d0
+
+01/11/2025  03:45 PM               318 d0d13fdf9083a9188930868c9cc04c5ca5185f
+               1 File(s)            318 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\d4
+
+01/10/2025  01:33 PM               188 89a5657423f4e9061702758bb0bf285a675185
+               1 File(s)            188 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\d5
+
+01/10/2025  01:32 PM               744 9347ee84b9d19167b535f6d28a5465b2c333dd
+               1 File(s)            744 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\d6
+
+01/14/2025  03:50 PM               170 6762a9ba4bd18f3c9ea2e37d5c6c27d8e0cc51
+               1 File(s)            170 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\d8
+
+01/11/2025  03:45 PM               414 177e9400aa676563f9cff92b3280fb7d6eff50
+               1 File(s)            414 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\db
+
+01/15/2025  02:02 PM               399 c56afdd182b7ce36b69b58496d0e2e0bb821c4
+               1 File(s)            399 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\e1
+
+01/15/2025  02:01 PM             1,589 b56c3fb72bf5ce7e16e9d6c49dd2ce5909bad4
+               1 File(s)          1,589 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\e2
+
+01/14/2025  03:49 PM               246 92be2cdd86bb94db9d4cd6d188e27aa4e4defe
+               1 File(s)            246 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\e3
+
+01/15/2025  02:01 PM               195 bb8cb004ad3ee7d8763c73266c7c233c3fdb89
+               1 File(s)            195 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\e4
+
+01/11/2025  03:45 PM               311 e7ef4981d1c5cc97e253299cbec84d22e6abff
+               1 File(s)            311 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\e6
+
+01/11/2025  03:45 PM               409 4de0c16b7c5b935ee0118d14adb560213651ba
+01/15/2025  02:01 PM                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               2 File(s)            424 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\e7
+
+01/11/2025  03:45 PM               218 8c4741dc08f0740ccc7468baa1e6b261ca2d2e
+               1 File(s)            218 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\e9
+
+01/11/2025  03:45 PM           197,493 758ac473ffd7c746e0faba4173679f0f1b2af8
+               1 File(s)        197,493 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\ed
+
+01/11/2025  03:45 PM            61,108 e40d38bee60826d07927511877c773a119432a
+               1 File(s)         61,108 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\ee
+
+01/11/2025  03:45 PM           158,761 812bc01893a1ca9ae639a659d8c2ef08b41438
+               1 File(s)        158,761 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\ef
+
+01/11/2025  03:45 PM               901 c7def11c8141257562303ce0d137b8fa8bf514
+01/11/2025  03:45 PM           164,332 fe35aebe5f229f3a4a66bee9b9099a6729349e
+               2 File(s)        165,233 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\f1
+
+01/11/2025  03:45 PM           225,992 fd4a23f6dea54148e04afc925f263c41c291bf
+               1 File(s)        225,992 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\f5
+
+01/11/2025  03:45 PM               118 ecb32f2ef8c26b88178d09424356750cd82c72
+01/11/2025  03:45 PM           245,010 fb0ad399018561ffd2875ddde6b90910712764
+               2 File(s)        245,128 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\f9
+
+01/11/2025  03:45 PM             3,455 c523126bc70ddcf46d03ac1f662d79ebd80b1c
+               1 File(s)          3,455 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\fa
+
+01/11/2025  03:45 PM               216 01e6fb5edb642e5c9b4ad86140566102b57574
+01/11/2025  03:45 PM               163 f69f655e29dff249e9e23020a0ca380596f5ec
+               2 File(s)            379 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\objects\fd
+
+01/11/2025  03:45 PM               131 77c0fdb0dd1a1fc8f81d2dd228fb29c1119549
+               1 File(s)            131 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\refs\heads
+
+01/15/2025  02:02 PM                41 master
+01/10/2025  01:46 PM                41 menu_api
+               2 File(s)             82 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\.git\refs\remotes\origin
+
+01/15/2025  02:02 PM                41 master
+01/10/2025  01:46 PM                41 menu_api
+               2 File(s)             82 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Littlelemon
+
+01/10/2025  01:25 PM               415 asgi.py
+01/14/2025  07:40 PM             3,991 settings.py
+01/14/2025  07:40 PM             1,347 urls.py
+01/10/2025  01:25 PM               415 wsgi.py
+01/10/2025  01:25 PM                 0 __init__.py
+               5 File(s)          6,168 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Littlelemon\tests
+
+01/15/2025  04:30 PM               271 test_models.py
+01/15/2025  04:30 PM             1,807 test_views.py
+01/15/2025  03:13 PM                 0 __init__.py
+               3 File(s)          2,078 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Littlelemon\__pycache__
+
+01/14/2025  05:51 PM             2,733 settings.cpython-313.pyc
+01/11/2025  03:45 PM             1,127 urls.cpython-313.pyc
+01/11/2025  03:45 PM               164 __init__.cpython-313.pyc
+               3 File(s)          4,024 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\LittleLemonAPI
+
+01/14/2025  06:04 PM               127 admin.py
+01/14/2025  05:51 PM               166 apps.py
+01/14/2025  06:33 PM               380 models.py
+01/14/2025  06:31 PM               202 serializers.py
+01/14/2025  05:51 PM                63 tests.py
+01/14/2025  06:57 PM               345 urls.py
+01/14/2025  06:38 PM               880 views.py
+01/14/2025  05:51 PM                 0 __init__.py
+               8 File(s)          2,163 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\LittleLemonAPI\migrations
+
+01/14/2025  06:02 PM               654 0001_initial.py
+01/14/2025  05:51 PM                 0 __init__.py
+               2 File(s)            654 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Restaurant
+
+01/11/2025  03:33 PM               157 admin.py
+01/10/2025  01:26 PM               158 apps.py
+01/15/2025  03:16 PM               623 models.py
+01/14/2025  02:27 PM               573 serializers.py
+01/15/2025  04:21 PM               773 urls.py
+01/15/2025  01:52 PM             1,367 views.py
+01/10/2025  01:26 PM                 0 __init__.py
+               7 File(s)          3,651 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Restaurant\migrations
+
+01/11/2025  01:44 PM               494 0001_initial.py
+01/11/2025  03:00 PM             1,062 0002_booking_menu_delete_test.py
+01/11/2025  03:33 PM               392 0003_delete_booking_delete_menu.py
+01/11/2025  03:34 PM             1,032 0004_initial.py
+01/15/2025  02:58 PM               369 0005_rename_title_menu_title.py
+01/15/2025  03:16 PM               526 0006_rename_id_menu_id_rename_inventory_menu_inventory.py
+01/15/2025  03:16 PM               991 0007_rename_bookingdate_booking_bookingdate_and_more.py
+01/10/2025  01:26 PM                 0 __init__.py
+               8 File(s)          4,866 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Restaurant\migrations\__pycache__
+
+01/11/2025  03:45 PM               885 0001_initial.cpython-313.pyc
+01/11/2025  03:45 PM             1,494 0002_booking_menu_delete_test.cpython-313.pyc
+01/11/2025  03:45 PM               744 0003_delete_booking_delete_menu.cpython-313.pyc
+01/11/2025  03:45 PM             1,439 0004_initial.cpython-313.pyc
+01/11/2025  03:45 PM               174 __init__.cpython-313.pyc
+               5 File(s)          4,736 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Restaurant\static\restaurant
+
+01/06/2023  01:16 PM           165,290 littlelemon.png
+               1 File(s)        165,290 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Restaurant\templates
+
+01/10/2025  04:20 PM               282 index.html
+               1 File(s)            282 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\Restaurant\__pycache__
+
+01/11/2025  03:45 PM               428 admin.cpython-313.pyc
+01/11/2025  03:45 PM               535 apps.cpython-313.pyc
+01/11/2025  03:45 PM             1,593 models.cpython-313.pyc
+01/11/2025  03:45 PM               339 urls.cpython-313.pyc
+01/11/2025  03:45 PM               365 views.cpython-313.pyc
+01/11/2025  03:45 PM               163 __init__.cpython-313.pyc
+               6 File(s)          3,423 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\static\css
+
+01/06/2023  01:16 PM             4,040 style.css
+               1 File(s)          4,040 bytes
+
+ Directory of C:\Yousef\courses\Back-end\Capstone-project\static\img
+
+01/06/2023  01:16 PM           165,290 Bruschetta.jpg
+01/06/2023  01:16 PM            15,086 favicon.ico
+01/06/2023  01:16 PM           246,037 greek salad.jpg
+01/06/2023  01:16 PM           140,064 Grill B.jpg
+01/06/2023  01:16 PM           175,107 Grill.jpg
+01/06/2023  01:16 PM           271,514 Grilled fish B.jpg
+01/06/2023  01:16 PM           219,670 Grilled fish C.jpg
+01/06/2023  01:16 PM           184,442 Grilled fish.jpg
+01/06/2023  01:16 PM           159,369 head_chef.jpg
+01/06/2023  01:16 PM           119,628 lemon dessert B.jpg
+01/06/2023  01:16 PM            62,151 lemon dessert.jpg
+01/06/2023  01:16 PM            17,177 logo.png
+01/06/2023  01:16 PM            11,597 logo_footer.png
+01/06/2023  01:16 PM           198,833 Mario and Adrian b.jpg
+01/06/2023  01:16 PM           227,707 mario-and-adrian.jpg
+01/06/2023  01:16 PM           217,216 pasta.jpg
+01/06/2023  01:16 PM            82,366 restaurant chef C.jpg
+01/06/2023  01:16 PM           128,631 restaurant food B.jpg
+01/06/2023  01:16 PM           108,551 restaurant food.jpg
+01/06/2023  01:16 PM           285,976 restaurant inside alternative.jpg
+01/06/2023  01:16 PM           361,579 restaurant_inside.jpg
+01/06/2023  01:16 PM           178,960 salad.jpg
+              22 File(s)      3,576,951 bytes
+
+     Total Files Listed:
+             226 File(s)      7,431,155 bytes
+               0 Dir(s)  119,307,481,088 bytes free
