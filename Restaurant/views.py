@@ -3,7 +3,7 @@ from rest_framework.generics import  ListCreateAPIView ,RetrieveUpdateDestroyAPI
 from .serializers import Bookingserializer , Menuserializer
 from .models import Menu , Booking
 from rest_framework import viewsets
-# from rest_framework.permissions import IsAuthenticated
+from rest_framework.permissions import IsAuthenticated
 # from django.contrib.auth.models import User
 
 # Create your views here.
@@ -16,17 +16,22 @@ def index(request):
 class MenuItemsView (ListCreateAPIView):
     queryset = Menu.objects.all()
     serializer_class = Menuserializer
+    permission_classes = [IsAuthenticated]
+
 
     #  Handles GET, PUT, and DELETE requests for a single menu item
 class SingleMenuItemView (RetrieveUpdateDestroyAPIView ):
     queryset = Menu.objects.all()
     serializer_class = Menuserializer
+    permission_classes = [IsAuthenticated]
+
 
 
 #    Handles CRUD operations for Booking model.
 class BookingViewSet (viewsets.ModelViewSet):
     queryset = Booking.objects.all()
-    serializer_class = Bookingserializer 
+    serializer_class = Bookingserializer
+    permission_classes = [IsAuthenticated]
 
 
 
